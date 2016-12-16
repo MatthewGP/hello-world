@@ -1,2 +1,2 @@
 # hello-world
-This a short description very is
+The quick red dog jumped over the lazy brown rabbit
